@@ -1,1 +1,1 @@
-# Liq-Money
+# Liqmoney
